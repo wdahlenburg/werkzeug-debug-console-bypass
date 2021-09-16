@@ -2,6 +2,7 @@ FROM python:3.9-slim
 
 MAINTAINER Wyatt Dahlenburg "wddahlenburg@gmail.com"
 
+RUN apt update && apt install -y procps
 RUN python3 -m pip install flask werkzeug
 
 WORKDIR /app
