@@ -141,4 +141,5 @@ The pin can be accepted at http://127.0.0.1/console. Once the system is unlocked
 
 # Credit
 The original research was done here: https://www.daehee.com/werkzeug-console-pin-exploit/
+
 The LFI vector is listed here: https://github.com/grav3m1nd-byte/werkzeug-pin
