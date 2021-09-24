@@ -137,7 +137,7 @@ Pin: 118-831-072
 
 If all goes well you should have the same Pin as the one displayed in the Docker logs. If not, recheck your steps. If you are on an old version of Werkzeug, try changing the hashing algorithm to md5 instead of sha1.
 
-The pin can be accepted at http://127.0.0.1/console. Once the system is unlocked you can run any python commands you want.
+The pin can be accepted at http://127.0.0.1:7777/console. Once the system is unlocked you can run any python commands you want.
 
 # Credit
 The original research was done here: https://www.daehee.com/werkzeug-console-pin-exploit/
