@@ -9,7 +9,7 @@ This repo provides a sample application to play with the `/console` endpoint on 
 
 1. Clone this repo
 ```
-$ git clone https://wdahlenburg/werkzeug-debug-console-bypass
+$ git clone https://github.com/wdahlenburg/werkzeug-debug-console-bypass.git
 ```
 
 2. Build the Docker image
